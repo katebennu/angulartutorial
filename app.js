@@ -16,7 +16,7 @@
     name: 'Pentagonal Gem',
     price: 155,
     canPurchase: true,
-    soldOut: true
+    soldOut: false
   },
   {
     name: 'Another Gem',
