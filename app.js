@@ -9,12 +9,18 @@
   {
     name: 'Azurite',
     price: 110.50,
-    canPurchase: true,
+    canPurchase: false,
     soldOut: false
   },
   {
     name: 'Pentagonal Gem',
-    price: 155.00,
+    price: 155,
+    canPurchase: true,
+    soldOut: true
+  },
+  {
+    name: 'Another Gem',
+    price: 125,
     canPurchase: true,
     soldOut: false
   }
